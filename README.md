@@ -7,7 +7,9 @@ It is a repo to record the algorithms of dynamic programming, divide and conquer
 * The second dynamic programming that we can learn is climbing stairs.
 * dp[n]=dp[n-1]+dp[n-2];
 * As you can see, all prblem can be solved by small problem which was recorded.
-* All the dp problem can be soved by using two methods of 1. recursive with table in stack and 2. iteration with table from the initial numbers.
+* All the dp problem can be soved by using two methods below:
+  1. recursive with table in stack 
+  2. iteration with table from the initial numbers
 * ...
 
 # Let us talk about the divide and conquer
