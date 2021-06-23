@@ -17,6 +17,11 @@ It is a repo to record the algorithms of dynamic programming, divide and conquer
 * The second divide and conquer that we can learn is merge sort. 
 * both sortings are not dynamic programming, because they don't have the overlapping subproblems.
 * Or we can say that we don't use the table to record any subproblems to solve the original problem.
+* ...
+
+# Let go to the greed
+* ...
+
 
 # References
 * https://zhuanlan.zhihu.com/p/91582909
